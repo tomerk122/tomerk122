@@ -3,7 +3,7 @@
 
 ---
 
-🎓 * B.Sc. in Computer Science | Afeka Academic College of Engineering**  
+🎓 ** B.Sc. in Computer Science | Afeka Academic College of Engineering**  
 💼 DevOps Engineer with experience in **CI/CD**, **Cloud Infrastructure**, and **Automation Pipelines**  
 🚀 Passionate about solving complex problems, learning new tools, and building scalable systems  
 📚 Always exploring technologies like **Kubernetes, ArgoCD, Terraform, and Jenkins**
