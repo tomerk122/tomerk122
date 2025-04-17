@@ -5,7 +5,6 @@
 
 🎓 **B.Sc. in Computer Science | Afeka Academic College of Engineering**  
 💼 DevOps Engineer with experience in **CI/CD**, **Cloud Infrastructure**, and **Automation Pipelines** &  Backend Developer with .net 
-
 🚀 Passionate about solving complex problems, learning new tools, and building scalable systems  
 📚 Always exploring technologies like **Kubernetes, ArgoCD, Terraform, and Jenkins**
 
