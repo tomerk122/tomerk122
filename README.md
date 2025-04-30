@@ -6,7 +6,7 @@
 🎓 **B.Sc. in Computer Science | Afeka Academic College of Engineering**  
 💼 **Junior Backend Developer Excited to bring my passion for backend development to real-world projects while continuously learning and growing.**
 
-💼 **DevOps Engineer with experience in **CI/CD**, **Cloud Infrastructure**   
+💼  **DevOps Engineer with experience in **CI/CD**, **Cloud Infrastructure**   
 🚀 Passionate about solving complex problems, learning new tools, and building scalable systems  
 
 
